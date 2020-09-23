@@ -1,5 +1,5 @@
 {
-	"name": "file-drop",
+	"name": "@koga73/file-drop",
 	"version": "1.0.0",
 	"description": "A simple library to enable client-side file uploads via drag-and-drop or click",
 	"main": "js/file-drop.js",
